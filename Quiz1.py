@@ -1,0 +1,6 @@
+print ("No. absen      :18")
+print ("Nama           :Khairi Rafi Anwar")
+print ("Kelas          :XI RPL 1")
+print ("Sekolah        :SMK PGRI 35 SOLOKAN JERUK")
+print ("Mata Pelajaran :PTGM")
+print ("Alamat         :Kp. Paneuresan")
